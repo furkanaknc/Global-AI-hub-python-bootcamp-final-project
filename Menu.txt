@@ -1,0 +1,13 @@
+* Please Choose a Pizza Base:
+1: Classic $10
+2: Margherita $12
+3: TurkPizza $15
+4: DominosPizza $18
+* and sauce of your choice:
+11: Olives $2
+12: Mushrooms $1.5
+13: GoatCheese $3
+14: Meat $2.5
+15: Onions $1
+16: Corn $1
+* Thank you!
